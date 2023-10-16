@@ -15,7 +15,7 @@ public class InitializationListener implements ServletContextListener {
     public void contextInitialized(ServletContextEvent event) {
 
         /*
-         * Suppress noisy messages output by the ESAPI library. For more detail:
+         * Suppress noisy messages output by the ESAPI library. For more detail:TEST JOSH
          * https://stackoverflow.com/questions/45857064/how-to-suppress-messages-output-by-esapi-library
          */
         PrintStream printStream = null;

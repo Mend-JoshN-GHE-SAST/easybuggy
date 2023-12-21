@@ -1,4 +1,3 @@
-//testJosh
 package org.t246osslab.easybuggy.core.dao;
 
 import java.sql.Connection;

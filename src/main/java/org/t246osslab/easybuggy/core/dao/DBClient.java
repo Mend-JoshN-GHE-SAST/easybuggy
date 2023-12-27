@@ -1,4 +1,5 @@
-package org.t246osslab.easybuggy.core.dao;
+
+//package org.t246osslab.easybuggy.core.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
